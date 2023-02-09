@@ -10,3 +10,19 @@ The purpose is to identify bugs or defects, ensure the product is error-free, an
 - Execute test cases
 - Report bugs
 - Test again
+## Test Case Parameters:
+- Test Case ID
+- Test Scenario
+- Test Case Title
+- Prerequisite
+- Test Steps/Actions
+- Test Data
+- Expected Result
+- Actual Result
+- Status
+- Remarks
+
+## What I have Implemented?
+I have created the test cases based on Demo-Financial Application (Positive & Negative) based on two scenarios:-
+- Send Money
+- Add Money
